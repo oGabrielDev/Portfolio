@@ -1,0 +1,25 @@
+body {
+  background-color:#92c2e9;
+}
+.containerForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 7em auto !important;
+  padding: 2em !important;
+  width: 40% !important;
+  background-color: rgb(213, 210, 255);
+}
+
+.btnEnviar {
+  width: 100% !important;
+  font-weight: bold;
+  font-size: large;
+}
+
+.footer {
+  align-self: flex-end;
+  margin-top: 10em !important;
+  position: relative;
+}
