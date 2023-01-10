@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+* {
+  font-family: 'Playfair Display', serif !important;
+  font-style: italic;
+}
+
+body {
+  background-image: url('./Amazing_nebula_stars-Expanse_Space_HD_Wallpaper_1366x768.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 90vh !important;
+  justify-content: center;
+  color: #fff;
+}
+
+.container-header {
+  width: 100vh;
+}
+
+.container-header h1 {
+  font-size: 50px;
+}
+
+.container-header-2{
+  margin-left: 21em !important;
+}
+
+.container-header-2 h2{
+  font-size: 40px;
+}
+
+.nav {
+  color: #fff !important;
+}
+
+.nav:hover{
+  color: black !important;
+}

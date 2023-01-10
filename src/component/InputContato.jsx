@@ -11,7 +11,10 @@ export default function FormContact() {
   }
 
   return (
-    <Form onSubmit={handleSubmit} className="containerForm rounded-3 shadow-lg p-1 mb-2">
+    <Form
+      onSubmit={ handleSubmit }
+      className="containerForm rounded-3 shadow-lg p-1 mb-2"
+    >
       <div>
         <Form.Label htmlFor="name">
           Nome:
@@ -34,7 +37,7 @@ export default function FormContact() {
         <ValidationError
           prefix="Email"
           field="email"
-          errors={state.errors}
+          errors={ state.errors }
         />
         <Form.Label htmlFor="message" className="mt-2">
           Assunto:
@@ -48,11 +51,11 @@ export default function FormContact() {
         <ValidationError
           prefix="Message"
           field="message"
-          errors={state.errors}
+          errors={ state.errors }
         />
         <button
           type="submit"
-          disabled={state.submitting}
+          disabled={ state.submitting }
           className="btn btn-primary shadow p-1 mt-2 btnEnviar"
         >
           Enviar
