@@ -8,8 +8,8 @@ function App() {
   return (
     <Switch>
       <Redirect from="/Portfolio" to="/" />
-      <Route exact path="/" component={ Home } />
-      <Route exact path="/contato" component={ Contato } />
+      <Route exact path="/" component={Home} />
+      <Route exact path="/contato" component={Contato} />
     </Switch>
   );
 }
