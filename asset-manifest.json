@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.720977b2.css",
-    "main.js": "/Portfolio/static/js/main.407bdf69.js",
+    "main.css": "/Portfolio/static/css/main.3284fd32.css",
+    "main.js": "/Portfolio/static/js/main.e72f986c.js",
+    "static/media/Amazing_nebula_stars-Expanse_Space_HD_Wallpaper_1366x768.jpg": "/Portfolio/static/media/Amazing_nebula_stars-Expanse_Space_HD_Wallpaper_1366x768.dcdbf491ee685d1807c4.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.720977b2.css.map": "/Portfolio/static/css/main.720977b2.css.map",
-    "main.407bdf69.js.map": "/Portfolio/static/js/main.407bdf69.js.map"
+    "main.3284fd32.css.map": "/Portfolio/static/css/main.3284fd32.css.map",
+    "main.e72f986c.js.map": "/Portfolio/static/js/main.e72f986c.js.map"
   },
   "entrypoints": [
-    "static/css/main.720977b2.css",
-    "static/js/main.407bdf69.js"
+    "static/css/main.3284fd32.css",
+    "static/js/main.e72f986c.js"
   ]
 }
