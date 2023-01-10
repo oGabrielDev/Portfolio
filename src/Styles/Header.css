@@ -5,18 +5,12 @@
   font-style: italic;
 }
 
-body {
-  background-image: url('./Amazing_nebula_stars-Expanse_Space_HD_Wallpaper_1366x768.jpg');
-  background-attachment: fixed;
-  background-size: cover;
-}
-
 .container {
   display: flex;
   flex-direction: column;
   height: 90vh !important;
   justify-content: center;
-  color: #fff;
+
 }
 
 .container-header {
@@ -36,9 +30,9 @@ body {
 }
 
 .nav {
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .nav:hover{
-  color: black !important;
+  color: #fff !important;
 }

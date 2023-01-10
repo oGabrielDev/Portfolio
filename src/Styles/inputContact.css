@@ -1,5 +1,6 @@
 body, html {
   height: 100%;
+  background-color: #87cefaa9;
 }
 
 
@@ -22,5 +23,5 @@ body, html {
 }
 
 .footer {
-  color: #fff;
+  color: #000000;
 }
