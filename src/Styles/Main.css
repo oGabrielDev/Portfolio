@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.cardContainer {
+  margin-top: 3em;
+  height: 100vh !important;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.mapContainer {
+  width: 38vh;
+  height: 45vh;
+  margin: 0.3em 2em;
+  padding: 0.5em;
+  border: 0.1em solid rgba(0, 0, 0, 0.164);
+  border-radius: 0.5em;
+  text-align: center;
+}
+
+.cardImage {
+  border: 0.1em solid rgba(0, 0, 0, 0.164);
+  padding: 4em;
+  justify-content: center;
+}
+
+.cardName {
+  text-align: left;
+  margin-left: 0.5em;
+}
+
+.describe {
+  height: 11vh;
+}
+
+.btn {
+  margin: 0.1em 1em 0.5em 0.4em;
+  padding: 0.5em;
+  border: 0.1em solid rgba(0, 0, 0, 0.233);
+  width: 10vh;
+  background-color: #6f00ffd7;
+  color: #FFF;
+}
+
+.btn:hover {
+  background-color: #6495ed;
+}

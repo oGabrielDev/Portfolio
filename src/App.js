@@ -3,6 +3,7 @@ import { Switch, Route, Redirect } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Contato from './pages/Contato';
 import Home from './pages/Home';
+import './App.css';
 
 function App() {
   return (
