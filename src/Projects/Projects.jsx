@@ -1,10 +1,10 @@
 const project = [
   {
     id: '1',
-    name: 'Em desenvolvimento',
-    describe: 'Em desenvolvimento',
-    url_image: 'Ainda não tem',
-    link: 'Ainda não tem',
+    name: 'Async Beer Delivery',
+    describe: 'Projeto FullStack Desenvolvido com Sequelize, Node.JS, Express, MySql, JWT, ReactJS, JavaScript e Bootstrap',
+    link: 'https://async-beer.vercel.app/login',
+    github: 'https://github.com/oGabrielDev/Delivery-App',
   },
   {
     id: '2',
@@ -12,6 +12,7 @@ const project = [
     describe: 'Em desenvolvimento',
     url_image: 'Ainda não tem',
     link: 'Ainda não tem',
+    github: '',
   },
   {
     id: '3',
@@ -19,6 +20,7 @@ const project = [
     describe: 'Em desenvolvimento',
     url_image: 'Ainda não tem',
     link: 'Ainda não tem',
+    github: '',
   },
   {
     id: '4',
@@ -26,6 +28,7 @@ const project = [
     describe: 'Em desenvolvimento',
     url_image: 'Ainda não tem',
     link: 'Ainda não tem',
+    github: '',
   },
   {
     id: '5',
@@ -33,6 +36,7 @@ const project = [
     describe: 'Em desenvolvimento',
     url_image: 'Ainda não tem',
     link: 'Ainda não tem',
+    github: '',
   },
   {
     id: '6',
@@ -40,6 +44,7 @@ const project = [
     describe: 'Em desenvolvimento',
     url_image: 'Ainda não tem',
     link: 'Ainda não tem',
+    github: '',
   },
 ];
 

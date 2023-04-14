@@ -7,11 +7,10 @@ export default function Main() {
     <div className="cardContainer">
       { project.map((elem) => (
         <div key={elem.id} className="mapContainer">
-          <p className="cardImage">{elem.url_image}</p>
           <p className="cardName">{elem.name}</p>
           <p className="describe">{elem.describe}</p>
-          <button type="button" className="btn">GitHub</button>
-          <button type="button" className="btn">Site</button>
+          <a href={elem.github} className="btn">GitHub</a>
+          <a href={elem.link} className="btn">Site</a>
         </div>
       ))}
     </div>

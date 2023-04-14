@@ -1,5 +1,5 @@
 .cardContainer {
-  margin-top: 3em;
+  margin-top: 2.5em;
   height: 100vh !important;
   display: flex;
   justify-content: center;
@@ -8,27 +8,25 @@
 
 .mapContainer {
   width: 38vh;
-  height: 45vh;
-  margin: 0.3em 2em;
+  height: 38vh;
+  margin: 0em 2em;
   padding: 0.5em;
   border: 0.1em solid rgba(0, 0, 0, 0.164);
   border-radius: 0.5em;
   text-align: center;
 }
 
-.cardImage {
-  border: 0.1em solid rgba(0, 0, 0, 0.164);
-  padding: 4em;
-  justify-content: center;
-}
 
 .cardName {
+  font-size: x-large;
   text-align: left;
-  margin-left: 0.5em;
+  margin: 1.5em auto 1em 0.5em; 
 }
 
 .describe {
   height: 11vh;
+  font-size: larger;
+  margin: 2.2em auto;
 }
 
 .btn {
