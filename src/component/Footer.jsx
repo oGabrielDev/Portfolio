@@ -3,7 +3,7 @@ import '../Styles/inputContact.css';
 
 export default function Footer() {
   return (
-    <footer className="footer">
+    <footer className="end-page">
       <h3>
         Todos os direitos reservados por Gabriel Thiago ©
       </h3>

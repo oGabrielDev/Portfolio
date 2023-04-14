@@ -32,6 +32,17 @@
 }
 
 .nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 5vh;
   color: #000000 !important;
   background-color: #87cefabe !important;
+}
+
+.navlink {
+  text-decoration: none;
+  color: #000000 !important;
+  padding: 0.5em;
+  margin-right: 1.5em;
 }

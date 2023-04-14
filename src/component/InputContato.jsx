@@ -15,7 +15,7 @@ export default function FormContact() {
       onSubmit={handleSubmit}
       className="containerForm rounded-3 shadow-lg p-1 mb-2"
     >
-      <div>
+      <div className="bodyform">
         <Form.Label htmlFor="name">
           Nome:
         </Form.Label>

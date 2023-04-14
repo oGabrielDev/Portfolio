@@ -4,12 +4,12 @@ import '../Styles/Header.css';
 
 export default function navbar() {
   return (
-    <ul className="nav justify-content-end">
-      <li className="nav-item">
-        <Link className="nav-link nav" to="/">Home</Link>
+    <ul className="nav">
+      <li>
+        <Link className="navlink" to="/">Home</Link>
       </li>
-      <li className="nav-item ">
-        <Link className="nav-link nav" to="/contato">Contato</Link>
+      <li>
+        <Link className="navlink" to="/contato">Contato</Link>
       </li>
     </ul>
   );
