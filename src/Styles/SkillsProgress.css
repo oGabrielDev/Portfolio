@@ -1,0 +1,13 @@
+.containerSkills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 55vh;
+}
+
+.skills {
+  margin: 1.5em;
+  width: 8vh;
+  text-align: center;
+}

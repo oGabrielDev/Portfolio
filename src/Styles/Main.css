@@ -1,6 +1,6 @@
 .cardContainer {
   margin-top: 2.5em;
-  height: 100vh !important;
+  height: 100vh;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
